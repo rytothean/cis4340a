@@ -8,4 +8,5 @@ public static int getAbsAdd(int x, int y) {
       throw new IllegalArgumentException();
     }
     return absX + absY;
-  }
+}
+
